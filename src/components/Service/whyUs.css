@@ -1,0 +1,66 @@
+.wrappers{
+    display: flex;
+    width: 900px;
+    margin: auto;
+    gap: 50px;
+    margin-top: 90px;
+}
+
+.wrap-container div p{
+    margin: 0;
+}
+
+.why-use{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.why-use p{
+    color: #FE5716;
+    font-weight: bolder;    
+}
+
+
+.time{
+    display: flex;
+    align-items: center;
+
+}
+
+.mini{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0a9642;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 80px;
+    align-items: center;
+}
+ .mini div p{
+    margin: 0;
+ }
+
+.mini2{
+    margin-top: 25px;
+}
+
+.mini2 img{
+    border-radius: 20px;
+}
+
+.mini-first{
+    color: white;
+    margin-left: 20px;
+}
+
+.mini-second {
+    background-color: white;
+    color: #0a9642;
+    border: 2px solid #0a9642;
+    border-radius: 20px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    height: 76px;
+    padding-left: 10px;
+}

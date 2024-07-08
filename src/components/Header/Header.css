@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    align-items: center;
+    background-color: #0a9642;
+    color: white;
+}
+#home:hover{
+    text-transform: uppercase;
+    /* color: #1e69cc; */
+    color: #FE5716;
+}
+.logo{
+   background-color:  white;
+    width: 60px;
+}
+
+.link{
+    margin-left: 600px; 
+}
+.link a{
+    text-decoration: none;
+    padding-left: 50px;
+    color: white;
+}

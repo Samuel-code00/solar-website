@@ -1,0 +1,54 @@
+.solu{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.solu p{
+    color: #FE5716;
+    font-weight: bolder;
+}
+/* iframe */
+.video{
+    border-radius: 40px;
+    z-index: 1;
+    position: relative;
+}
+
+.link3{
+    background-color: #0A9642;
+    height: 40px;
+    width: 420px;
+    position: absolute;
+    bottom: -125px;
+    border-radius: 30px;
+    margin: auto;
+    align-items: center;
+    margin-left: 45px;
+}
+
+.wrapper1{
+    display: flex;
+    width: 1100px;
+    text-align: center;
+    margin: auto;
+    gap: 30px;
+}
+
+.wrapper1 img + p{
+    font-weight: bolder;
+}
+.wrapper2 img + p{
+    font-weight: bolder;
+}
+.wrapper2{
+    display: flex;
+    width: 1100px;
+    text-align: center;
+    margin: auto;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+#gene{
+    width: 250px;
+}

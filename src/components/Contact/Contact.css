@@ -1,0 +1,155 @@
+.main{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    width: 950px;
+    margin: auto;
+
+}
+
+.default{
+    /* margin: 10px; */
+    padding: 60px 190px 80px;
+    height: 90px;
+    background-color: #17195a;
+    color: white;
+    position: relative;
+}
+
+.cost{
+    margin: 0;
+}
+
+.default h1{
+    font-size: 48px;
+    font-family: verdana;
+}
+
+.link2{
+    background-color: #0A9642;
+    height: 40px;
+    width: 960px;
+    position: absolute;
+    bottom: -15px;
+    border-radius: 30px;
+    margin: auto;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.link2 a{
+    text-decoration: none;
+    color: #FAFAFA;
+}
+
+.wrap{
+    margin-top: 90px;
+}
+
+.input{
+    outline: none;
+    gap: 20px;
+    width: 290px;
+    margin: 10px;
+    height: 30px;
+    padding-left: 10px;
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    border: 1px solid #666666;
+}
+select{
+    outline: none;
+    gap: 20px;
+    width: 290px;
+    margin: 10px;
+    height: 30px;
+    padding-left: 10px;
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    border: 1px solid #666666;
+}
+
+#service{
+    width: 620px;
+}
+
+#message{
+    width: 600px;
+    border-radius: 20px;
+    padding-left: 20px;
+    outline: none;
+    overflow: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.wrap h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quote{
+    margin-left: 230px;
+    /* margin: auto; */
+}
+
+hr{
+    text-align: center;
+    width: 50px;
+    border:1px solid #FE5716;
+    position: relative;
+    left: 0px;
+    /* margin: 0; */
+
+}
+.head{
+    text-align: center;
+    color: #FE5716;
+}
+
+.send{
+    text-decoration: none;
+    color: white;
+    background-color: #FE5716;
+    width: 150px;
+    display: inline-block;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 3px;
+    border-radius: 15px;
+    margin-left: 10px;
+
+}
+.send:hover{
+    background-color: #fff;
+    color: #FE5716;
+    border: 2px solid #FE5716;
+}
+
+.number{
+    background-color: #0A9642;
+    border-radius: 10px;
+    color: white;
+    width: 250px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.num .number p{
+    margin: 0;
+}
+
+.number img{
+    width: 50px;
+}
+
+.num{
+    margin-top: 250px;
+}

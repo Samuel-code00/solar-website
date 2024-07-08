@@ -1,0 +1,42 @@
+.quote-container{
+    background-color: #17195a;
+    display: flex;
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 50px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.quote-inputs{
+    background-color:#0a9642;
+    position: absolute;
+    padding-top: 20px;
+    margin-left: 520px;
+    top: 30px;
+    border-radius: 15px;
+    height: 300px;
+    width: 340px;
+}
+
+.quote-inputs input{
+    display: block;
+    border: transparent;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.quote-inputs textarea{
+    max-width:  295px;
+}
+
+.quote-text{
+    padding: 20px 40px;
+    color: white;
+}
+
+.last-para {
+    font-weight: bolder;
+    color: #FE5716;
+}

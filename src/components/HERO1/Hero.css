@@ -1,0 +1,37 @@
+#home-img{
+    width: 100% ;
+}
+
+.install{
+    display: flex;
+    width: 800px;
+    margin: auto;
+    gap: 20px;
+    color: white;
+    margin-top: 80px;
+}
+
+.install img{
+    width: 90px;
+}
+
+.res-install{
+    background-color: #0A9642;
+    display: block;
+    text-align: center;
+    width: 400px;
+    border-radius: 15px;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.comm-install{
+    background-color: #1E56A1;
+    display: block;
+    text-align: center;
+    width: 400px;
+    border-radius: 15px;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+
+ 

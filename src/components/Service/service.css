@@ -1,0 +1,33 @@
+.service-pro{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.service-pro .para{
+    color: #FE5716;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.service-pro .smart{
+    font-size: 29px;
+}
+
+.ser-type{
+    display: flex;
+    margin-top: 80px;
+    width: 70%;
+    justify-content: space-between;
+    margin: 50px 0px 0px 210px;
+}
+
+.resident img{
+    width: 500px;
+    height: 350px;
+    border-radius: 30px;
+}
+
+.ser-text{
+    padding-top: 80px;
+    text-align: justify;
+}
